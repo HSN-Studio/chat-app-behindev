@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HSN-Studio/chat-app-behindev/static/css/main.3276e581.css",
+    "main.js": "/HSN-Studio/chat-app-behindev/static/js/main.02120f14.js",
+    "index.html": "/HSN-Studio/chat-app-behindev/index.html",
+    "main.3276e581.css.map": "/HSN-Studio/chat-app-behindev/static/css/main.3276e581.css.map",
+    "main.02120f14.js.map": "/HSN-Studio/chat-app-behindev/static/js/main.02120f14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3276e581.css",
+    "static/js/main.02120f14.js"
+  ]
+}
